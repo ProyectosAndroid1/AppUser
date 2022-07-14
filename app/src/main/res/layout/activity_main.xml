@@ -14,7 +14,7 @@
         android:layout_height="150dp"
         android:layout_gravity="center"
         android:gravity="center"
-        android:text="INGRESO"
+        android:text="INGRESO APP"
         android:textSize="25dp" />
 
     <LinearLayout
